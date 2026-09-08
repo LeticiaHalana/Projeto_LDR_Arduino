@@ -28,7 +28,7 @@ Este projeto utiliza a plataforma Arduino para monitorar a intensidade luminosa 
 ## 📸 Circuito em Funcionamento
 
 <img src="https://github.com/LeticiaHalana/Projeto_LDR_Arduino/blob/aeafea6ad5bd071ed6890e9721b388b56a9edf64/Captura%20de%20tela%202026-09-07%20194902.png" width="300" alt="Texto alternativo">
-<img src="https://github.com/LeticiaHalana/Projeto_LDR_Arduino/blob/aeafea6ad5bd071ed6890e9721b388b56a9edf64/Captura%20de%20tela%202026-09-07%20194902.png" width="300" alt="Texto alternativo">
+<img src="https://github.com/LeticiaHalana/Projeto_LDR_Arduino/blob/795d550122bb16ca29cc777c37521d9cd7687678/Captura%20de%20tela%202026-09-08%20084645.png" width="300" alt="Texto alternativo">
 ---
 
 ## 💻 Trecho do Código (Sensores -> INPUT)
